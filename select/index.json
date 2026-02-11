@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プレイ・ザット・ファンキー・ミュージック",
+  "base_artist": "Wild Cherry",
+  "createdAt": "2026-02-11T13:11:05.438381Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play That Funky Music",
+      "artist": "Wild Cherry",
+      "has_synced": false,
+      "path": "select/pl_01_Play_That_Funky_Music_Wild_Cherry.txt"
+    }
+  ]
+}
